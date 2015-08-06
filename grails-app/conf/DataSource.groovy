@@ -30,7 +30,7 @@ environments {
         dataSource {
             dbCreate = "update"
             dialect = "org.hibernate.dialect.PostgreSQLDialect"
-            url = "postgres://xqhlvelkvarawb:w4n4ukUfkQbhEzwwlY2H3i7Gvy@ec2-54-204-3-200.compute-1.amazonaws.com:5432/dacb1ardpchehm"
+            url = "postgres://jhnhbfotqtitcx:p5UAy9TzeWqtvwyZQYjkmu_VCs@ec2-54-204-0-120.compute-1.amazonaws.com:5432/d6fs3th2g5g8tv"
             properties {
                // See http://grails.org/doc/latest/guide/conf.html#dataSource for documentation
                jmxEnabled = true
