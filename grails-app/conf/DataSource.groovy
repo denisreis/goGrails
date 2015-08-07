@@ -14,6 +14,7 @@ hibernate {
 
 // environment specific settings
 //g
+// teste do deploy
 environments {
     development {
         dataSource {
