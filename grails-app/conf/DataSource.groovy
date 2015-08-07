@@ -13,6 +13,7 @@ hibernate {
 }
 
 // environment specific settings
+//g
 environments {
     development {
         dataSource {
