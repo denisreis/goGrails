@@ -1,7 +1,7 @@
 package gograils
 
 class TesteController {
-	def scaffold =  Teste
+	def scaffold = Teste
 
     def index() { }
 }
