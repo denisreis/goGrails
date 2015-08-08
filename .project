@@ -26,6 +26,7 @@
 		<link>
 			<name>.link_to_grails_plugins</name>
 			<type>2</type>
+<<<<<<< janiel
 <<<<<<< HEAD
 			<location>C:/Users/Shalton/Documents/GitHub/goGrails/target/work/plugins</location>
 =======
@@ -35,6 +36,9 @@
 			<location>C:/Users/Shalton/Documents/GitHub/goGrails/target/work/plugins</location>
 >>>>>>> refs/heads/master
 >>>>>>> janiel
+=======
+			<location>K:/Documents/GitHub/goGrails/target/work/plugins</location>
+>>>>>>> faa8af7 ola teste groov
 		</link>
 	</linkedResources>
 </projectDescription>
