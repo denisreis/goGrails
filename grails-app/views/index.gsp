@@ -104,7 +104,8 @@
 		</div>
 		<div id="page-body" role="main">
 			<h1>Bem vindo à aplicação goGrails</h1>
-			<p>Abaixo um scaffold dinâmico para teste:</p>
+			<p>Abaixo um scaffold dinâmico para teste:</p>			
+			<p>TESTE JANIEL 008</p>
 
 			<div id="controller-list" role="navigation">
 				<h2>Available Controllers:</h2>
