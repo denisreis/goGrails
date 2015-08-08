@@ -108,7 +108,9 @@
 			<p>TESTE JANIEL 008</p>
 			<p>TESTE JANIEL 009</p>
 						<p>TESTE JANIEL 010</p>
-			
+	<p>TESTE JANIEL 008</p>
+			<p>TESTE JANIEL 009</p>
+						<p>TESTE JANIEL 010</p>		
 
 			<div id="controller-list" role="navigation">
 				<h2>Available Controllers:</h2>
